@@ -2,6 +2,13 @@
 
 f.FastLoot is a high-performance auto-pickup solution for Paper and Purpur Minecraft servers. It is designed to be lightweight, customizable, and efficient.
 
+
+[![Servers](https://img.shields.io/bstats/servers/30403?color=5F71BF&label=Active%20Servers&style=for-the-badge)](https://bstats.org/plugin/bukkit/FFastLoot/30403)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A6E1?style=for-the-badge&logo=telegram)](https://t.me/feir_project)
+[![Issues](https://img.shields.io/badge/GitHub-Issues-DCDCDC?style=for-the-badge&logo=github)](https://github.com/feir-project/f.fastloot/issues)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/f.fastloot)
+
+
 ## Download
 The official releases are hosted on Modrinth. You can find the latest version here:
 [https://modrinth.com/plugin/f.fastloot](https://modrinth.com/plugin/f.fastloot)
